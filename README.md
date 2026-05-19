@@ -91,7 +91,7 @@
 - ⚡ Focused on Backend Engineering & Computer Vision
 
 ---
-
+<!--
 # 📊 GitHub Stats
 
 <p align="center">
@@ -104,7 +104,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshArigela&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
 </p>
 
----
+--->
 
 # 🌐 Connect With Me
 
