@@ -27,7 +27,7 @@
 
 | Project | Description | Tech Stack | Highlight |
 |----------|-------------|-------------|------------|
-| [**GridCamAI**]((https://github.com/SanthoshArigela/AI_Based_Grid_Cam)) | AI-powered smart photography assistant with intelligent grid detection | Java, Android, TensorFlow, MobilenetV2 | Real-time camera guidance |
+| [**GridCamAI**](https://github.com/SanthoshArigela/AI_Based_Grid_Cam) | AI-powered smart photography assistant with intelligent grid detection | Java, Android, TensorFlow, MobilenetV2 | Real-time camera guidance |
 | [**GeoLoanLens**](https://github.com/SanthoshArigela/GeoLoanLens) | AI-driven geographical loan analysis & verification system | React, Firebase, AI Models | SIH Project |
 | [**Chams**](https://github.com/SanthoshArigela/CHAMS) | Smart budgeting & expense tracking application | Android, Firebase | AI-powered finance tracking |
 
